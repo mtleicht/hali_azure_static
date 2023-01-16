@@ -1,5 +1,5 @@
 <template>
-  <div>Hello {{ value }}</div>
+  <div>Hali Azure Static</div>
 </template>
 
 <script>
