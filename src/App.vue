@@ -1,5 +1,5 @@
 <template>
-  <div>Hali Azure Static</div>
+  <div>Hali Azure Static here is a change</div>
 </template>
 
 <script>
